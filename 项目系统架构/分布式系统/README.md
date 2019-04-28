@@ -4,10 +4,20 @@
 - 分布式存储
 - 分布式计算
 - 全文检索
-- 消息队列
+- 消息队列MQ
 - 容器
-
-## 分布式存储文件系统
+## 分布式文件系统
+- IPFS
+- GFS
+- HDFS
+- Lustre 
+- Ceph 
+- GridFS 
+- mogileFS
+- TFS
+- FastDF
+- MooseFS
+## 主流的分布式存储文件系统
 - GFS
 - AFS 
 - Lustre
@@ -80,3 +90,6 @@ RabbitMQ是AMQP协议领先的一个实现，它实现了代理(Broker)架构，
 
 ### ZeroMQ
 ZeroMQ是一个非常轻量级的消息系统，专门为高吞吐量/低延迟的场景开发，在金融界的应用中经常可以发现它。
+
+## 参考资料
+* https://chaser520.iteye.com/blog/2428231
