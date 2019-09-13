@@ -35,10 +35,4 @@ Nginx（发音同engine x）是一个异步框架的 Web 服务器，也可以�
 * https://xuexb.github.io/learn-nginx/
 * [nginx的负载均衡如何配置] https://blog.csdn.net/Rodgexue/article/details/79976610
 * https://www.w3cschool.cn/nginx/
-<<<<<<< HEAD
-* http://www.ttlsa.com/nginx/nginx-tutorial-from-entry-to-the-master-ttlsa/
-* https://juejin.im/post/5a2600bdf265da432b4aaaba
-=======
-* https://www.w3cschool.cn/nginxsysc/
-* http://www.ttlsa.com/nginx/nginx-tutorial-from-entry-to-the-master-ttlsa/
->>>>>>> 49ef808be87322ee737a4272aa00f683407a43b2
+* 
